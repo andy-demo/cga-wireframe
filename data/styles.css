@@ -20,6 +20,9 @@
 }
 .placeholder {
 }
+.primary_button {
+  color:#FFFFFF;
+}
 .heading_1 {
   font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
@@ -67,6 +70,8 @@
 }
 .paragraph {
   text-align:left;
+}
+.line {
 }
 .text_field {
   color:#000000;

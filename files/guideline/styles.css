@@ -1380,7 +1380,7 @@
   background:inherit;
   background-color:rgba(68, 159, 189, 1);
   border:none;
-  border-radius:10px;
+  border-radius:5px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -1465,7 +1465,7 @@
   border-width:1px;
   border-style:solid;
   border-color:rgba(68, 159, 189, 1);
-  border-radius:10px;
+  border-radius:5px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
@@ -1557,7 +1557,7 @@
   background:inherit;
   background-color:rgba(255, 47, 47, 1);
   border:none;
-  border-radius:10px;
+  border-radius:5px;
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
