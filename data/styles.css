@@ -16,6 +16,8 @@
 }
 .shape {
 }
+.ellipse {
+}
 .image {
 }
 .placeholder {
@@ -112,6 +114,10 @@
 .box_3 {
 }
 .icon {
+}
+.button {
+}
+.line1 {
 }
 .paragraph1 {
   text-align:left;
